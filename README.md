@@ -9,3 +9,4 @@ Sales management has gained importance to meet increasing competition and the ne
 
 # Dashboard
 ![image alt](https://github.com/fasil-feroz/Amazon-Sales-Analysis/blob/299ee099a352278d94a389d578d324c22fc1d2fd/Screenshot%201.png)
+![image alt](
