@@ -13,3 +13,4 @@ https://github.com/fasil-feroz/Amazon-Sales-Analysis/blob/3082b924d99fe459b0ea2a
 # Dashboard
 ![image alt](https://github.com/fasil-feroz/Amazon-Sales-Analysis/blob/299ee099a352278d94a389d578d324c22fc1d2fd/Screenshot%201.png)
 ![image alt](https://github.com/fasil-feroz/Amazon-Sales-Analysis/blob/c9b9b15e5ce0f065de87aea2ebc7da93480f1109/Screenshot%202.png)
+
