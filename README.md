@@ -22,7 +22,7 @@ This basic analysis and visualization cover several key steps:
 
 1. Data Cleaning: Handling missing values, duplicates, and converting data types.
 2. Exploratory Data Analysis (EDA): Generating insights about the data such as summary statistics, correlations, trends over time, and category distributions.
-3.Visualization: Using Matplotlib and Seaborn to create visual representations of the data such as line plots, bar charts, histograms, and boxplots.
+3. Visualization: Using Matplotlib and Seaborn to create visual representations of the data such as line plots, bar charts, histograms, and boxplots.
 
 In this project, I performed a detailed analysis of Amazon Sales data, aiming to uncover insights and patterns that could inform decisions or further research.
 
