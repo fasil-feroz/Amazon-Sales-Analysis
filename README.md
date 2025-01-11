@@ -17,4 +17,16 @@ Sales management has gained importance to meet increasing competition and the ne
 # Detailed Report
 [Amazon Sales Report](https://github.com/fasil-feroz/Amazon-Sales-Analysis/blob/0be87380dd3479039aec61859deb17e306ca91df/Amazon%20Sales%20Analysis%20Report%20by%20Fasil%20Feroz.pdf)
 
+# Conclusion
+This basic analysis and visualization cover several key steps:
 
+1. Data Cleaning: Handling missing values, duplicates, and converting data types.
+2. Exploratory Data Analysis (EDA): Generating insights about the data such as summary statistics, correlations, trends over time, and category distributions.
+3.Visualization: Using Matplotlib and Seaborn to create visual representations of the data such as line plots, bar charts, histograms, and boxplots.
+
+In this project, I performed a detailed analysis of Amazon Sales data, aiming to uncover insights and patterns that could inform decisions or further research.
+
+In conclusion, this project has provided valuable insights. These results contribute to a better understanding of Analyzing Amazon Sales data and offer guidance for future work in this area.
+
+# Feedback
+If you have any feedback, please reach out to me at [LinkedIn](https://www.linkedin.com/in/fasil-feroz/)
